@@ -1,5 +1,4 @@
 # PhoneBook
-# PhoneBook
 A phonebook is implemented as an AVL-tree where each
 node represent first name,last name and mobile number and you may also add addition
 nodes like e-mail, office no., address, etc for every contacts.Personal contact
